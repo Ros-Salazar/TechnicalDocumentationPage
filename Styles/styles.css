@@ -1,9 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700;800;900&display=swap");
 html,
 body {
     min-width: 290px;
-    color: #4d4e53;
-    background-color: #ffffff;
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: "Inconsolata", monospace;
+    background: #222831;
+    color: #eeeeee;
     line-height: 1.5;
 }
 
@@ -19,6 +20,7 @@ body {
 }
 
 header {
+    background: rgba(57, 62, 70, 0.6666666667);
     color: black;
     margin: 10px;
     text-align: center;
